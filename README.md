@@ -1,4 +1,4 @@
-# Frogger Arcade Game
+# Frogger Arcade Game (pokemon themed)
 ## Summary
 Frogger Arcade game is a slight cariation of the classic Frogger Arcade Game developed by Konami. I made this game as a project that is part of the Udacity Front-End Web Developer Nanodegree. 
 
@@ -7,10 +7,15 @@ Frogger Arcade game is a slight cariation of the classic Frogger Arcade Game dev
 Use the arrow keys to move left, right, forward or backward.
 
 ## Installation
-To run this application, download the GitHub zip file or clone the repository. Then open a browsser window and within it open the index.html fine in the directory of your application. 
+start playing my game at: https://clever-haibt-c90e3d.netlify.com/
 
-You can also play the game by clicking this link: 
-https://madisonkanna.github.io/Arcade-Game/
+**or**
+
+* Installing from Source
+* Clone the following repo:
+* git clone https://github.com/ahmed-derbel/pokemon-arcade-game.git
+* Load game.html in browser.
+* Play the game :sunglasses:
 
 ## Tools used in this game:
 Object-Oriented JavaScript

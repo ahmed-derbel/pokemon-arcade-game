@@ -36,7 +36,7 @@ Star.prototype.render = function() {
 };
 
 // This is our enemies subclass
-// This class delegates to our superclass
+
 var Enemy = function() {
     // Set our enemies starting position
     Character.call(this, 'images/enemy-bug.png', -100, 200);
@@ -211,3 +211,7 @@ document.addEventListener('keyup', function(e) {
     player.handleInput(allowedKeys[e.keyCode]);
 });
 
+function myFunction() {
+    var popup = document.getElementById("myPopup");
+    popup.classList.toggle("show");
+  }
